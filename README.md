@@ -1,5 +1,7 @@
 # Bike Sharing: NYC CitiBike Analysis
 
+![download](https://user-images.githubusercontent.com/101374716/178160982-a21b9d69-2efc-41e8-8e62-4ed7cd104196.jpg)
+
 ## Overview of Analysis
 
 Ensuring I have a high quality business proposal for investors to be able to investing in starting a bike sharing company in Des Moines. They need to see an analysis to understand how this business works to be able to bring it to Des Moines.
